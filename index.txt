@@ -1,0 +1,13 @@
+//  unit testing 
+
+// ok - 1 - o  que é :
+
+  res = testa unidade de codigo...
+
+// ok - 2 - como fazer com o jest 
+
+// 3 - quando / como usar 
+
+// 4 - como isolar ainda mais o test com mock 
+
+
